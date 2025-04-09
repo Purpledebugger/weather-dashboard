@@ -1,12 +1,38 @@
-# React + Vite
+# 🌦️ Weather Dashboard App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive React app that lets users search for real-time weather data by city name. Powered by the OpenWeatherMap API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [View it live on Netlify](https://jazzy-cupcake-c486f4.netlify.app)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🌐 OpenWeatherMap API
+- ⚡ Vite
+- 🚀 Netlify (for deployment)
+
+---
+
+## 🔍 Features
+
+- 🌆 Search weather by city
+- 🌡️ Real-time temperature, humidity, wind speed
+- ❌ Error handling for invalid cities
+- 📱 Fully responsive UI
+
+---
+
+## 🔧 Setup Instructions
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/Purpledebugger/weather-dashboard.git
+cd weather-dashboard
